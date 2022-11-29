@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Seb-RS
+- 👋 Hi, I’m @Seb-RS, from CL
 - 👀 I’m interested in web development 
 - 📫 How to reach me: https://sebdev.cl
