@@ -7,4 +7,4 @@ Check out my portfolio at https://seb.lat to see some of my recent projects and 
 
 ## GitHub stats
 
-[![](https://raw.githubusercontent.com/Seb-RS/Seb-RS/master/profile-summary-card-output/react/0-profile-details.svg)]
+![](https://raw.githubusercontent.com/Seb-RS/Seb-RS/master/profile-summary-card-output/react/0-profile-details.svg)
