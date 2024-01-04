@@ -9,4 +9,4 @@ Check out my portfolio at https://seb.lat to see some of my recent projects and 
 
 ![](https://raw.githubusercontent.com/Seb-RS/Seb-RS/master/profile-summary-card-output/react/0-profile-details.svg)
 
-![](https://svg.sebdev.cl/Seb-RS?year=2023)
+![](https://svg.sebdev.cl/Seb-RS?year=2022)
