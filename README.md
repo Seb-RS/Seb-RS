@@ -9,4 +9,4 @@ Check out my portfolio at https://seb.lat to see some of my recent projects and 
 
 ![](https://raw.githubusercontent.com/Seb-RS/Seb-RS/master/profile-summary-card-output/react/0-profile-details.svg)
 
-![](http://svg.sebdev.cl/Seb-RS?container_color=1c1b1b&factor_color=1.5&primary_color=2bffff&primary_text_color=ffffff&secondary_text_color=c3c3c3)
+![Seb-RS's contributions](http://svg.sebdev.cl/Seb-RS?container_color=1c1b1b&factor_color=1.5&primary_color=2bffff&primary_text_color=ffffff&secondary_text_color=c3c3c3)
