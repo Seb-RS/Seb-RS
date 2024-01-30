@@ -1,7 +1,7 @@
 import random
 
 data = "";
-with open("README.md", "r") as file:
+with open("README.md.nocache", "r") as file:
     data = file.read() 
     data = data.replace("[randomNumberHere]", str(random.randint(1,999999999))) 
     file.close()
